@@ -10,6 +10,7 @@ The Graphing Calculator and Twitter Application were both loosely a part of a St
 Here are the links to the repos with the applications
 
 https://github.com/hputterm/Twitter-Application
+
 https://github.com/hputterm/Graphing-Calculator
 
 ### Othello Bot
