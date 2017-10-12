@@ -1,4 +1,4 @@
-# Coding Portfolio
+This is a repo with some of the projects I have done.  Hopefully you find them interesting.
 
 ### Biology Simulations and Cell Computer Vision Analysis
 
