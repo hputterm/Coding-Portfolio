@@ -1,5 +1,10 @@
 This is a repo with some of the projects I have done.  Hopefully you find them interesting.
 
+### Kaggle Competition
+https://github.com/Whillikers/CS155-Miniproject-1
+
+Here is the link to the repo for the code my team used for the Kaggle competition to get the highest combined score.  For the competition I mainly worked on finding the optimal architectures for neural networks, gradient boosted classifiers, and polynomial support vector machines.  Bagging and ensembling were used to produce our finals classifiers.
+
 ### Biology Simulations and Cell Computer Vision Analysis
 
 The Gene Expression and Genetic Drift Simulations were both projects done in a biology class I took.  They required extensive use of python to do scientific analysis and simulations.  For instance in the Gene Expression project I used computer vision to identify cells on microscope images and then analyze the fluorescence content to determine the degree of gene expression.  In the Genetic Drift project I used Monte Carlo simulations to model the behavior of populations over time in the presence of external factors that affected their genetic viability.  This is just a small sample of the scientific simulations done during the class.
