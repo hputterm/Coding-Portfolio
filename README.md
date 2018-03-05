@@ -1,4 +1,11 @@
 This is a repo with some of the projects I have done.  Hopefully you find them interesting.
+### Hidden Markov Models
+
+HMM contains my implementation of the Viterbi Algorithm, Forwards-Backwards Algorithm, and Baum-Welch Algorithm for the training of first order hidden markov models.  This implementation was used for generative modeling of Shakespeare and the constitution.
+
+### Matrix Factorization
+
+This library contains an implementation of matrix factorization both with and without biases.  This model was trained using stochastic gradient descent.  Using singular value decomposition the results of this matrix factorization could be used to visualize the similarities between different objects.  
 
 ### Kaggle Competition
 https://github.com/Whillikers/CS155-Miniproject-1
