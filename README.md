@@ -1,4 +1,4 @@
-This is a repo with some of the projects I have done.  Hopefully you find them interesting.
+This is a repo with some of the projects I have completed updated every six months or so.  Hopefully you find them interesting.
 ### Hidden Markov Models
 
 HMM contains my implementation of the Viterbi Algorithm, Forwards-Backwards Algorithm, and Baum-Welch Algorithm for the training of first order hidden markov models.  This implementation was used for generative modeling of Shakespeare and the constitution.
