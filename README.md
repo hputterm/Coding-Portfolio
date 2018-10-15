@@ -1,4 +1,10 @@
 This is a repo with some of the projects I have completed updated every six months or so.  Hopefully you find them interesting.
+
+### Alphazero Othello
+https://github.com/IzzyPutterman/Alpha0
+
+This is an implementation of an alphazero bot to play othello.  I implemented both the training process as well as the convolutional neural network which is used as the function approximator.  This is based on the Alpha Go Zero paper from Deepming.
+
 ### Hidden Markov Models
 
 HMM contains my implementation of the Viterbi Algorithm, Forwards-Backwards Algorithm, and Baum-Welch Algorithm for the training of first order hidden markov models.  This implementation was used for generative modeling of Shakespeare and the constitution.
