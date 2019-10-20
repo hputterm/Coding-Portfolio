@@ -1,9 +1,8 @@
-This is a repo with some of the projects I have completed updated every six months or so.  Hopefully you find them interesting.
+### Deep Learning Projects.
+https://github.com/hputterm/caltech-cs11-tensorflow/blob/master/labs/lab_5_adversarial_examples/lab_5.ipynb
+https://github.com/hputterm/caltech-cs11-tensorflow/blob/master/labs/lab_7_recurrences/lab_7.ipynb
 
-### Alphazero Othello
-https://github.com/IzzyPutterman/Alpha0
-
-This is an implementation of an alphazero bot to play othello.  I implemented both the training process as well as the convolutional neural network which is used as the function approximator.  This is based on the Alpha Go Zero paper from Deepming.
+Examples involving recurrent neural networks and adversarial attatcks.
 
 ### Hidden Markov Models
 
