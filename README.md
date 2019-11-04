@@ -1,9 +1,3 @@
-### Deep Learning Projects.
-https://github.com/hputterm/caltech-cs11-tensorflow/blob/master/labs/lab_5_adversarial_examples/lab_5.ipynb
-https://github.com/hputterm/caltech-cs11-tensorflow/blob/master/labs/lab_7_recurrences/lab_7.ipynb
-
-Examples involving recurrent neural networks and adversarial attatcks.
-
 ### Hidden Markov Models
 
 HMM contains my implementation of the Viterbi Algorithm, Forwards-Backwards Algorithm, and Baum-Welch Algorithm for the training of first order hidden markov models.  This implementation was used for generative modeling of Shakespeare and the constitution.
