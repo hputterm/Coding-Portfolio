@@ -1,3 +1,8 @@
+### CV Projects (231n)
+https://github.com/hputterm/CVassignments
+
+Contains assignments from cs231n about GANs, image labeling using RNNs and LSTMs, and style transfer.  Some of these involved writing neural networks by hand and for the rest I used tensorflow.  
+
 ### Hidden Markov Models
 
 HMM contains my implementation of the Viterbi Algorithm, Forwards-Backwards Algorithm, and Baum-Welch Algorithm for the training of first order hidden markov models.  This implementation was used for generative modeling of Shakespeare and the constitution.
@@ -18,7 +23,7 @@ The Gene Expression and Genetic Drift Simulations were both projects done in a b
 ### IOS Applications
 
 The Graphing Calculator and Twitter Application were both loosely a part of a Stanford course on IOS development.   Both of these applications were programmed in swift.  In the future I plan on reworking the model for the calculator to make it use a priority system when parsing to string.  Currently there are still some bugs left in this part of the project.  
-Here are the links to the repos with the applications
+Here are the links to the repos with the applications.
 
 https://github.com/hputterm/Twitter-Application
 
